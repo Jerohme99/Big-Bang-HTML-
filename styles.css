@@ -1,0 +1,22 @@
+/***********************tag selectors****************************************/
+hr{
+    border-width: 10px;
+    width: 10%;
+    border-style: none;
+    border-top-style: dotted;
+    color: whitesmoke  ;
+}
+
+a:hover{
+    background-color:gold;
+}
+
+body{
+    background-color:#CCD1E4 ;
+}
+
+/**********************************class selectors*******************************/
+.bigHead{
+    width: 150px;
+    height: 150px;
+}
